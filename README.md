@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachinrajsharma, Mathematics Teacher, Social Worker ( Founder - Udgam Welfare Foundation - www.udgamwelfarefoundation.com & www.mathstudy.in), Data Scientist 
+- 👋 Hi, I’m @sachinrajsharma, Mathematics Teacher, Social Worker ( Founder - Udgam Welfare Foundation - www.udgamwelfarefoundation.com,www.mathstudy.in & https://datasciencexone.com) 
 - My Philosophy of Life : "I faced challenges in life and I made product on them"
 - 👀 I’m interested in Data Science Projects in R Programming having skills :  R Markdown, HTML,CSS,Linux, LaTeX,FlexDash Board, Text Analytics, Web Scraping and Shiny App
 - 🌱 I’m looking for some opportunity where I can utilize all my skills which I have learned during the past few years. You can see my project in LaTeX at www.mathstudy.in, where I have prepared E-Books and this entire website is developed by me. This is a complete E-Commerce Project and every E-Book is  developed in LaTeX  only. 
