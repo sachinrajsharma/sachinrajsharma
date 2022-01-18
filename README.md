@@ -9,22 +9,16 @@
 Flex Dashboard in R : Top 7 Crypto Price Analysis in flex dashabord : https://datasciencexone.com/top%207%20crypto%20currency%20data%20analysis%20in%20r%20programming.html
 
 - Shiba Inu Telegram Bot : 
-- 
 - How this bot works ?
-- 
 This bot is a Machine Learning Project developed by me
 
 Special features of this bot :
 
-This bot will give you updates about the news on Shiba Inu Coin, after scraping the data from various social media platforms.
-
-This bot will update you about global sentiments towards Shiba Inu.
-
-This bot will send you important tweets of the day (if any), which will help you to know how Shiba Inu is performing .
-
-This bot will give you signals, which may help you to take decisions about buying Shiba Inu Coins.
-
-This bot will update you about the prices of the Shib Coins on regular basis.
+(a) This bot will give you updates about the news on Shiba Inu Coin, after scraping the data from various social media platforms.
+(b) This bot will update you about global sentiments towards Shiba Inu.
+(c) This bot will send you important tweets of the day (if any), which will help you to know how Shiba Inu is performing .
+(d) This bot will give you signals, which may help you to take decisions about buying Shiba Inu Coins.
+(e) This bot will update you about the prices of the Shib Coins on regular basis.
 
 So, with the help of this bot, you need not search important news or updates about Shib Coin, no need to visit exchanges to see the prices. You will get all of this on single platform, without wasting any time.
 
