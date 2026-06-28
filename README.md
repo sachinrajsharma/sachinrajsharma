@@ -43,4 +43,4 @@ genuinely good study material, practice and tools in front of any student with a
 for free.
 
 🔗 **Try it:** [vidaara.org](https://vidaara.org) · [ganak.vidaara.org](https://ganak.vidaara.org) · [ankora.vidaara.org](https://ankora.vidaara.org)
-📫 **Reach me:** ✉️ udgamsachin@gmail.com
+📫 **Reach me:** ✉️ admin@vidaara.org
