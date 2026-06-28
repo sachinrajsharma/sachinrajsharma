@@ -24,6 +24,14 @@ Everything below is real, in active use, and made for learners first.
 | **Words of Vidaara (WOV)** | A vocabulary word game built in Flutter — learning English the fun way. | 📱 Coming to Google Play |
 | **Vidaara App** | The Flutter companion app that brings the full Vidaara portal to Android. | 📱 In development |
 
+### 📱 Android apps — coming soon to Google Play
+
+Native Flutter apps built to take Vidaara beyond the browser. Play Store links land here as each goes live.
+
+- **Ankora** — a math RPG for kids (Grades 3–8) where solving sums powers your spells and beats the monsters. Practice that feels like play, fully offline. &nbsp;`▸ Google Play — coming soon`
+- **Words of Vidaara (WOV)** — a quick, addictive word game that grows your English vocabulary one round at a time. &nbsp;`▸ Google Play — coming soon`
+- **Vidaara** — the whole learning portal in your pocket: study material, mock tests and practice for Class 1–12 and competitive exams. &nbsp;`▸ Google Play — coming soon`
+
 ### 🧰 Tech I work with
 
 `Node.js` · `Express` · `EJS` · `MySQL` · `Flutter / Dart` · `JavaScript` · `R` · `Python` · `HTML/CSS`
