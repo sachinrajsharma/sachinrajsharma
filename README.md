@@ -19,8 +19,8 @@ Everything below is real, in active use, and made for learners first.
 | Project | What it is | Status |
 |---|---|---|
 | **[Vidaara](https://vidaara.org)** | Free e-learning portal — Class 1–12 study material (Maths, Physics, Chemistry, Science, Computer Science, English, Economics, Accountancy) plus exam prep for **SAT, CAT, SSC CGL, CTET, JEE, NEET &amp; IMO**. Thousands of MCQs, full mock tests, interactive labs, an AI study tutor and a Q&amp;A forum. | 🟢 Live |
-| **Ganak** | A mathematics engine that solves K-12, SAT, JEE, CAT, GRE &amp; Olympiad problems **step by step** — a rule-based symbolic solver, not a black box. Powers the maths across Vidaara. | 🛠️ In development |
-| **Ankora** | A math RPG for kids (Grades 3–8) where **maths is the weapon** — get a sum right, cast the spell. A Flutter game, fully offline, built for young learners. | 📱 Coming to Google Play |
+| **[Ganak](https://ganak.vidaara.org)** | A mathematics engine that solves K-12, SAT, JEE, CAT, GRE &amp; Olympiad problems **step by step** — a rule-based symbolic solver, not a black box. Powers the maths across Vidaara. | 🟢 Live |
+| **[Ankora](https://ankora.vidaara.org)** | A math RPG for kids (Grades 3–8) where **maths is the weapon** — get a sum right, cast the spell. Built for young learners; playable on the web and coming to Google Play. | 🟢 Live (web) |
 | **Words of Vidaara (WOV)** | A vocabulary word game built in Flutter — learning English the fun way. | 📱 Coming to Google Play |
 | **Vidaara App** | The Flutter companion app that brings the full Vidaara portal to Android. | 📱 In development |
 
@@ -34,4 +34,5 @@ Good education shouldn't depend on what your family can pay. Vidaara is my attem
 genuinely good study material, practice and tools in front of any student with a phone —
 for free.
 
-📫 **Reach me:** [vidaara.org](https://vidaara.org) · ✉️ udgamsachin@gmail.com
+🔗 **Try it:** [vidaara.org](https://vidaara.org) · [ganak.vidaara.org](https://ganak.vidaara.org) · [ankora.vidaara.org](https://ankora.vidaara.org)
+📫 **Reach me:** ✉️ udgamsachin@gmail.com
